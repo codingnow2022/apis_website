@@ -244,10 +244,8 @@ nav .menu-btn::after {
 
 .cardApis:hover p{
     text-shadow: 0 0 30px #fff;
-    background: #32323249;
     padding: 20px;
     font-size: 20px;
-    color: #fff !important;
 }
 .container-cards .cardApis:nth-child(3) p,
 .container-cards .cardApis:nth-child(4) p,
