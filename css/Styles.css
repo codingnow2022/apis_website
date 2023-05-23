@@ -226,18 +226,12 @@ nav .menu-btn::after {
 }
 
 
-.cardApis:hover::before{
-    border: 2px solid #fff;
-    left: 0px;
-    z-index: 999;
-    pointer-events: none;
-}
+
 
 
 .container-cards .cardApis:hover {
     transition: .4s !important;
     transform: translateY(-50px) scale(1.1);
-    box-shadow: 0 0 30px #ffffff;
     /* transform: scale(1.1); */
     z-index: 9999;
 }
