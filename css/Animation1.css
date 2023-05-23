@@ -107,7 +107,6 @@ footer .right-footer{
 .container-cards .cardApis:hover {
     transition: .4s !important;
     transform: translateY(-60px);
-    box-shadow: 0 0 20px #fff;
 }
 
 .cardApis:hover p{
