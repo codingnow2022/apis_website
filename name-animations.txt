@@ -1,0 +1,11 @@
+"simpleFade",
+"curtainTopRight",*** 
+"curtainBottomRight",***
+"curtainSliceRight", ***
+"blindCurtainTopLeft",*** 
+"blindCurtainSliceTop",******
+"stampede", ******
+"mosaic", ******
+"mosaicRandom"******
+"topRightBottomLeft",***
+
